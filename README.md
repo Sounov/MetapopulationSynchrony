@@ -1,6 +1,6 @@
 # MetapopulationSynchrony
 
-Codes and algorithm used for generating results of submitted manuscript by S. Marick et al.
+Codes and algorithm used for generating results of manuscript "Species extinction and revival in metapopulation under synergistic effects of dispersal and climate fluctuations" by S. Marick et al.
 
 % File Basin of attraction
 
