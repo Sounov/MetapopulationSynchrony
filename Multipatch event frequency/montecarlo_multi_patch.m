@@ -37,7 +37,7 @@ PnBin = 0.2;    % probability of switch
 
 %% Initialization =============================================:
 for dis = 1:1:length(D)
-    D1=D(dis); D2=D(dis);   % Diffusion parameters
+    D1=D(dis); D2=1.1*D(dis);   % Diffusion parameters
     for sim = 1:1:SIM
         [~,~,L] = laplacian([dimJ], {'P'});
         %         L = scale_free(100,1,1);
