@@ -1,7 +1,5 @@
 function [time,swich,climate,climate1] = Climate(Tend,RR,PnBin)
-% Climates generates a sequence of negative binomial random variables that
-% add up to Tend, has propablility of success in single trial of PnBin and
-% corresponding number of successes RR
+
 swichtemp = nbininv(rand(1,2*Tend),RR,PnBin);
 indend = 1;
 while (sum(swichtemp(1:indend))<Tend)
