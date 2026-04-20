@@ -27,3 +27,6 @@ Codes and algorithm used for generating results of manuscript "Dispersal, synchr
 % File Networks
 
 "scale_free.m" and "erdos_reyni" generates respective random networks and gives Laplacian and adjacency matrix of the generated network as the output.
+
+% File multipatch frequency
+To generate data for frequency of events in multipatch scenario. Four cases are defined as accordingly.
