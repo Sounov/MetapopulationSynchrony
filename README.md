@@ -1,6 +1,6 @@
 # MetapopulationSynchrony
 
-Codes and algorithm used for generating results of manuscript "Species extinction and revival in metapopulation under synergistic effects of dispersal and climate fluctuations" by S. Marick et al.
+Codes and algorithm used for generating results of manuscript "Dispersal, synchrony, and climate-induced tipping: Mechanisms of persistence and extinction in spatially structured predator-prey metapopulations" by S. Marick et al.
 
 % File Basin of attraction
 
